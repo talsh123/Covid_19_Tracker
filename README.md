@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/talsh123/Covid_19_Tracker" rel="noopener" target="_blank"><img width="75" src="./src/images/covid.ico" alt="Covid-19 logo"></a></p>
+  <a href="https://github.com/talsh123/Covid_19_Tracker" rel="noopener" target="_blank"><img width="75" src="./public/favicon.ico" alt="Covid-19 logo"></a></p>
 </p>
 
 <h1 align="center">COVID-19 Tracker</h1>
